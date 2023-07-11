@@ -1,3 +1,3 @@
-# SEF Website Clone
+# Website Clone
 
 **Not Hosted**
