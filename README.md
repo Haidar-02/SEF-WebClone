@@ -1,3 +1,3 @@
 # Website Clone
 
-Hosted (Here)[https://haidar-02.github.io/WebClone/]
+Hosted at https://haidar-02.github.io/WebClone/
